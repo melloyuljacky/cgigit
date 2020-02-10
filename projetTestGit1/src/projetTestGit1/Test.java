@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("projet test git v1");
 		System.out.println("projet test git v2");
 		System.out.println("projet test git v3");
+		
+		System.out.println("projet test git v4");
 
 	}
 
